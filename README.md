@@ -1,6 +1,6 @@
 # My First Git Repository
 
-Hello GitHub!
+Hello Dev
 
 This is my second commit.
 
